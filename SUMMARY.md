@@ -1,6 +1,6 @@
 # Table of contents
 
-* [M3203](README.md)
+* [Стартовая страница](README.md)
 
 ## Предметы
 
