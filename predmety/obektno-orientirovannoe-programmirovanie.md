@@ -16,7 +16,7 @@
 
 Задания лабораторных:
 
-1. INI Парсер
+1. [INI Парсер](/OOPLabs/INIFile.pdf)
 2. Undefine
 3. Undefine
 4. Undefine
