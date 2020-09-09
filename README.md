@@ -12,7 +12,7 @@ description: Добро пожаловать в архив группы
 
 📧: I\_SER\_I@hotmail.com
 
-tg: @i\_ser\_i
+tg: [@i\_ser\_i](https://t.me/i_ser_i)
 
 vk: [i\_ser\_i](https://vk.com/i_ser_i)
 
