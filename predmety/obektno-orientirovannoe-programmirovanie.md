@@ -7,6 +7,8 @@
 Записи лекции:
 
 1. [Ввводная лекция \(07.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/2020-09-07.mp4?w=1)
+2. Сoming soon
+3. Coming soon
 
 ## Практики
 
@@ -18,7 +20,7 @@
 
 Задания лабораторных:
 
-1. [INI Парсер](https://reports.artrey.ru/task/7/)
+1. INI Парсер
 2. Undefine
 3. Undefine
 4. Undefine
