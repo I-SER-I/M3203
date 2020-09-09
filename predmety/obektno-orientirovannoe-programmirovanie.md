@@ -18,7 +18,7 @@
 
 Задания лабораторных:
 
-1. INI Парсер
+1. [INI Парсер](https://reports.artrey.ru/task/7/)
 2. Undefine
 3. Undefine
 4. Undefine
