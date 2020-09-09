@@ -6,9 +6,7 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Ввводная лекция \(07.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/2020-09-07.mp4?w=1) /
-2. Сoming soon
-3. Coming soon
+1. SimpleText / SimpleText
 
 ## Практики
 
