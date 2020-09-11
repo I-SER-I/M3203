@@ -32,3 +32,6 @@
 4. Undefine
 5. Undefine
 6. Undefine
+7. 
+{% file src="../.gitbook/assets/inifile.pdf" caption="ini" %}
+
