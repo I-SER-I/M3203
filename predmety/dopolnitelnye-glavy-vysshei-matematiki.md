@@ -6,7 +6,8 @@
 
 Записи лекции / Материалы к лекции:
 
-1. SimpleText / SimpleText
+1. [Запись]() / [Материалы]()
+2. [Запись]() / [Материалы](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/EWqyVFDtFwBFnvL7KHFMiPcB_vidYr5eQ6AA-NkuVUVFog?e=kUVN1x)
 
 ## Практики
 
@@ -18,7 +19,7 @@
 
 1. Coming soon
 
-Типовик
+Типовой расчет
 
 ### Второй модуль
 
@@ -26,5 +27,5 @@
 
 1. Coming soon
 
-Типовик
+Типовой расчет
 
