@@ -26,12 +26,11 @@
 
 Задания лабораторных:
 
-1. {% file src="../.gitbook/assets/inifile.pdf" caption="ini" %}
-2. Undefine
-3. Undefine
-4. Undefine
-5. Undefine
-6. Undefine
-7. 
+1. [INI Файл](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/Ebs7D289MepIhH8vyl_UaoQB5rbVoQwpmYh69aggLiUHTQ?e=dmv66I)
+2. [Undefine]()
+3. [Undefine]()
+4. [Undefine](../.gitbook/assets/inifile.pdf)
+5. [Undefine]()
+6. [Undefine]()
 
 
