@@ -26,12 +26,12 @@
 
 Задания лабораторных:
 
-1. INI Парсер
+1. {% file src="../.gitbook/assets/inifile.pdf" caption="ini" %}
 2. Undefine
 3. Undefine
 4. Undefine
 5. Undefine
 6. Undefine
 7. 
-{% file src="../.gitbook/assets/inifile.pdf" caption="ini" %}
+
 
