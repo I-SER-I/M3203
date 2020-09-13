@@ -30,4 +30,3 @@
 2. [Магазин](https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/OOP/OOPLabs/Lab2.pdf)
 3. [Симулятор гонок](https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/OOP/OOPLabs/Lab3.pdf)
 
-
