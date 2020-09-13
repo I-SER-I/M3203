@@ -27,7 +27,7 @@
 Задания лабораторных:
 
 1. [INI Файл](https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/OOP/OOPLabs/Lab1.pdf)
-2. [Магазин]((https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/OOP/OOPLabs/Lab2.pdf))
-3. [Симулятор гонок]((https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/OOP/OOPLabs/Lab3.pdf))
+2. [Магазин](https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/OOP/OOPLabs/Lab2.pdf)
+3. [Симулятор гонок](https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/OOP/OOPLabs/Lab3.pdf)
 
 
