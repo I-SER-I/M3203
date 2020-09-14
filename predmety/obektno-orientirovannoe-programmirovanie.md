@@ -30,4 +30,3 @@
 2. [Магазин](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/ET2kULbccf5BmU1C7E1YDC8BJ5AykF46r9S8GOj2olZx1w?e=Xt7DcA)
 3. [Симулятор гонок](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/EZvnhUJl0X5Hn7fffFGHZ7ABjONG5BL_mG7OScZx00PO7w?e=nM1XMr)
 
-

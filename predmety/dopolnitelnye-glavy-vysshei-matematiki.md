@@ -6,8 +6,8 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Запись]() / [Материалы]()
-2. [Запись]() / [Материалы](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/EWqyVFDtFwBFnvL7KHFMiPcB_vidYr5eQ6AA-NkuVUVFog?e=kUVN1x)
+1. [Запись](dopolnitelnye-glavy-vysshei-matematiki.md) / [Материалы](dopolnitelnye-glavy-vysshei-matematiki.md)
+2. [Запись](dopolnitelnye-glavy-vysshei-matematiki.md) / [Материалы](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/EWqyVFDtFwBFnvL7KHFMiPcB_vidYr5eQ6AA-NkuVUVFog?e=kUVN1x)
 
 ## Практики
 
