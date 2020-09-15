@@ -6,8 +6,8 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Запись](dopolnitelnye-glavy-vysshei-matematiki.md) / [Материалы](dopolnitelnye-glavy-vysshei-matematiki.md)
-2. [Запись](dopolnitelnye-glavy-vysshei-matematiki.md) / [Материалы](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/EWqyVFDtFwBFnvL7KHFMiPcB_vidYr5eQ6AA-NkuVUVFog?e=kUVN1x)
+1. [Запись](https://youtu.be/MbRg1tHSesI) / [Материалы]()
+2. [Запись](https://youtu.be/-CRVyKbM8Y4) / [Материалы](https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/Math/2_Lecture.pdf)
 
 ## Практики
 
@@ -19,7 +19,7 @@
 
 1. Coming soon
 
-Типовой расчет
+[Типовой расчет](https://drive.google.com/file/d/1LuFsD7bo1E09GaP--6uXxE0aln7AV8KM/view?usp=sharing) (Делаем  "типовой расчет Ряды", кроме VI)
 
 ### Второй модуль
 
@@ -28,4 +28,3 @@
 1. Coming soon
 
 Типовой расчет
-
