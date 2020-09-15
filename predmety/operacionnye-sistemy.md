@@ -24,3 +24,6 @@
 
 1. [Основы использования консольного интерфейса ОС Linux и интерпретатора bash](https://drive.google.com/file/d/1K0YJEFB8fF0HizpNJFYmSSphKrFwzDvx/view?usp=sharing)
 2. Coming soon
+
+
+## Макс привет
