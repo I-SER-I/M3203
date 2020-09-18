@@ -13,11 +13,13 @@
 
 **Преподаватель: Пакнратова Татьяна Федоровна**
 
+[Задачник](https://drive.google.com/file/d/1-EqihpTfL0y6zdUEH0aPykguzkiKWxlg/view)
+
 ### Первый модуль
 
 Домашние задания
 
-1. Coming soon
+1. 94-98, 101, 104, 107
 
 [Типовой расчет](https://drive.google.com/file/d/1LuFsD7bo1E09GaP--6uXxE0aln7AV8KM/view?usp=sharing) (Делаем  "типовой расчет Ряды", кроме VI)
 
