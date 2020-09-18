@@ -10,7 +10,7 @@
 
 1. [Эволюция понятия ОС](https://youtu.be/Gw-8Yc6ZXPU)
 2. [Мультипрограммные ОС](https://youtu.be/F3PX38nF9TI)
-3. Coming soon
+3. []()
 
 ## Практики
 
@@ -24,6 +24,4 @@
 
 1. [Основы использования консольного интерфейса ОС Linux и интерпретатора bash](https://drive.google.com/file/d/1K0YJEFB8fF0HizpNJFYmSSphKrFwzDvx/view?usp=sharing)
 2. [Мониторинг процессов и ресурсов в ОС Linux](https://drive.google.com/file/d/193gWp6TKxkBtYPpJwUiOtW_XPwDAsFNi/view)
-
-
-## Макс привет
+   

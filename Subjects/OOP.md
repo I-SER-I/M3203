@@ -1,6 +1,6 @@
 # Объектно-ориентированное программирование
 
-## Баллы
+## Баллы-
 
 | Лабы | Контрольные | ЛК | Экзамен |
 | :--- | :--- | :--- | :--- |
@@ -27,5 +27,5 @@
 Задания лабораторных:
 
 1. [INI Файл](https://drive.google.com/file/d/1koxIp9u-PT3ZqzairQ9zQNkfCwm9A9uA/view)
-2. [Магазин](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/ET2kULbccf5BmU1C7E1YDC8BJ5AykF46r9S8GOj2olZx1w?e=Xt7DcA)
-3. [Симулятор гонок](https://niuitmo-my.sharepoint.com/:b:/g/personal/i_ser_i_niuitmo_ru/EZvnhUJl0X5Hn7fffFGHZ7ABjONG5BL_mG7OScZx00PO7w?e=nM1XMr)
+2. [Магазин](https://drive.google.com/file/d/1tIi2pzSzwMYN4u7QG-xUF0gzBSGUwWZB/view)
+3. [Симулятор гонок](https://drive.google.com/file/d/1gw1Jh05lYzZCbchvtCOd6ZOwo3e9UPVh/view)
