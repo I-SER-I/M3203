@@ -4,11 +4,11 @@
 
 ## Предметы
 
-* [Дополнительные главы высшей математики](predmety/dopolnitelnye-glavy-vysshei-matematiki.md)
-* [Иностранный язык](predmety/inostrannyi-yazyk.md)
-* [Объектно-ориентированное программирование](predmety/obektno-orientirovannoe-programmirovanie.md)
-* [Операционные системы](predmety/operacionnye-sistemy.md)
-* [Специальные разделы физики](predmety/specialnye-razdely-fiziki.md)
-* [Физическая культура](predmety/fizicheskaya-kultura.md)
+* [Дополнительные главы высшей математики](predmety/math.md)
+* [Иностранный язык](predmety/foreign-language.md)
+* [Объектно-ориентированное программирование](predmety/oop.md)
+* [Операционные системы](predmety/os.md)
+* [Специальные разделы физики](predmety/physics.md)
+* [Физическая культура](predmety/physical-education.md)
 * [Безопасность жизнедеятельности](predmety/bezopasnost-zhiznedeyatelnosti.md)
 
