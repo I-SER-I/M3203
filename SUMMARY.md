@@ -2,13 +2,13 @@
 
 * [Стартовая страница](README.md)
 
-## Предметы
+## Предметы <a id="subjects"></a>
 
-* [Дополнительные главы высшей математики](predmety/dopolnitelnye-glavy-vysshei-matematiki.md)
-* [Иностранный язык](predmety/inostrannyi-yazyk.md)
-* [Объектно-ориентированное программирование](predmety/obektno-orientirovannoe-programmirovanie.md)
-* [Операционные системы](predmety/operacionnye-sistemy.md)
-* [Специальные разделы физики](predmety/specialnye-razdely-fiziki.md)
-* [Физическая культура](predmety/fizicheskaya-kultura.md)
-* [Безопасность жизнедеятельности](predmety/bezopasnost-zhiznedeyatelnosti.md)
+* [Дополнительные главы высшей математики](subjects/math.md)
+* [Иностранный язык](subjects/foreign-language.md)
+* [Объектно-ориентированное программирование](subjects/oop.md)
+* [Операционные системы](subjects/os.md)
+* [Специальные разделы физики](subjects/physics.md)
+* [Физическая культура](subjects/physical-education.md)
+* [Безопасность жизнедеятельности](subjects/life-safety.md)
 
