@@ -14,7 +14,7 @@
 
 1. [Эволюция понятия ОС](https://youtu.be/Gw-8Yc6ZXPU)/
 2. [Мультипрограммные ОС](https://youtu.be/F3PX38nF9TI)
-3. []()
+3. [Функции ОС](https://youtu.be/HETdXWS4Kho)
 
 ## Практики
 
