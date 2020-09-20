@@ -6,7 +6,7 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [OnepEdu](https://yadi.sk/d/iGz5-Vunb5dKHA/2020-09-07.mp4?w=1) / [Приложение. Системный анализ безопасности](https://drive.google.com/file/d/1-Ym0zFyD_ddeWU8DNoK9VZaIIg3Ky3hl/view?usp=sharing)
+1. [OnepEdu](https://openedu.ru/) / [Приложение. Системный анализ безопасности](https://drive.google.com/file/d/1-Ym0zFyD_ddeWU8DNoK9VZaIIg3Ky3hl/view?usp=sharing)
 
 ## Практики
 
