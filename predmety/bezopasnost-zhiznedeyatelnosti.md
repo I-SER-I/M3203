@@ -23,5 +23,5 @@
 
 
 3. Здоровый сон:
-  https://puu.sh/GtkvG/810031edc5.png
-  https://puu.sh/Gtkwn/531e9bd4f5.png
+  [Тык](https://puu.sh/GtkvG/810031edc5.png)
+  [Тык2](https://puu.sh/Gtkwn/531e9bd4f5.png)
