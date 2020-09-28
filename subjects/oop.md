@@ -15,6 +15,8 @@
 1. [Ввводная лекция \(07.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/2020-09-07.mp4?w=1)
 2. [Зачем нужен ООП? \(14.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/02-proc2oop-2020-09-14.mp4?w=1)
 3. [Принципы проектирования. GRASP \(28.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/03-grasp-2020-09-28.mp4?w=1)/[Презентация](https://docs.google.com/presentation/d/13qoSF_MnO_tZ2N54yi4RHMl_sjDDe09OUT3Opg8Ct0k/edit#slide=id.g9c7e3e1ecd_0_60)
+4. [Comming soon \(05.10\)]()
+
 ## Практики
 
 **Преподаватель: Иванов Александр Сергеевич**
@@ -28,3 +30,4 @@
 1. [INI Файл](https://drive.google.com/file/d/1koxIp9u-PT3ZqzairQ9zQNkfCwm9A9uA/view)
 2. [Магазин](https://drive.google.com/file/d/1tIi2pzSzwMYN4u7QG-xUF0gzBSGUwWZB/view)
 3. [Симулятор гонок](https://drive.google.com/file/d/1gw1Jh05lYzZCbchvtCOd6ZOwo3e9UPVh/view)
+4. [Comming soon]()
