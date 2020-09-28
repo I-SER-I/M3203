@@ -16,7 +16,7 @@
 2. [Мультипрограммные ОС](https://youtu.be/F3PX38nF9TI)
 3. [Функции ОС](https://youtu.be/HETdXWS4Kho)
 4. [Системная архитекрура ОС](https://youtu.be/VDRD5lhV5OQ)
-5. [Comming soon]()
+5. [Coming soon]()
 
 ## Практики
 
@@ -30,4 +30,4 @@
 
 1. [Основы использования консольного интерфейса ОС Linux и интерпретатора bash](https://drive.google.com/file/d/1K0YJEFB8fF0HizpNJFYmSSphKrFwzDvx/view?usp=sharing)
 2. [Мониторинг процессов и ресурсов в ОС Linux](https://drive.google.com/file/d/193gWp6TKxkBtYPpJwUiOtW_XPwDAsFNi/view)
-3. [Comming soon]()
+3. [Coming soon]()
