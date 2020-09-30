@@ -19,7 +19,7 @@
 1. simple text
 2. simple text
 3. simple text
-   
+
 ## Вариативный модуль
 
 Ответы к тестам:
