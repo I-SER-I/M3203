@@ -17,7 +17,7 @@
 3. [Принципы проектирования. GRASP \(28.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/03-grasp-2020-09-28.mp4?w=1)/[Презентация](https://docs.google.com/presentation/d/13qoSF_MnO_tZ2N54yi4RHMl_sjDDe09OUT3Opg8Ct0k/edit#slide=id.g9c7e3e1ecd_0_60)
 4. [Принципы проектирования. SOLID \(05.10\)](https://yadi.sk/d/iGz5-Vunb5dKHA/04-solid-2020-10-05.mp4?w=1)/[Презентация](https://docs.google.com/presentation/d/13qoSF_MnO_tZ2N54yi4RHMl_sjDDe09OUT3Opg8Ct0k/edit?usp=sharing)
 
-## Практики
+## Практика
 
 **Преподаватель: Иванов Александр Сергеевич**
 
