@@ -6,9 +6,11 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Запись](https://youtu.be/MbRg1tHSesI) / [Материалы](math.md)
-2. [Запись](https://youtu.be/-CRVyKbM8Y4) / [Материалы](https://niuitmo-my.sharepoint.com/personal/i_ser_i_niuitmo_ru/Documents/ITMO.ARCHIVE/3_Semester/Math/2_Lecture.pdf)
-3. [Запись](math.md)
+1. [Запись](https://youtu.be/MbRg1tHSesI) / [Материалы]()
+2. [Запись](https://youtu.be/-CRVyKbM8Y4) / [Материалы]()
+3. [Запись]() / [Материалы]()
+4. [Запись](https://youtu.be/V37RO-3aTow)
+5. [Запись](https://youtu.be/O6G8x3HIQdo) 
 
 ## Практики
 
