@@ -30,4 +30,7 @@
 
 1. [Основы использования консольного интерфейса ОС Linux и интерпретатора bash](https://drive.google.com/file/d/1K0YJEFB8fF0HizpNJFYmSSphKrFwzDvx/view?usp=sharing)
 2. [Мониторинг процессов и ресурсов в ОС Linux](https://drive.google.com/file/d/193gWp6TKxkBtYPpJwUiOtW_XPwDAsFNi/view)
-3. [Управление процессами в ОС Linux]()
+3. [Управление процессами в ОС Linux](https://drive.google.com/file/d/11AYFPJw7jV1eapSUKmoT3ELBBWufGQAX/view?usp=sharing)
+4. [Работа с файлово-каталожной системой в ОС Linux](https://drive.google.com/file/d/1Z8tm1b9alpPno2bcSpOpRXlLrEUyISwF/view?usp=sharing)
+5. [Coming soon]
+6. [Coming soon]
