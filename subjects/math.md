@@ -35,5 +35,5 @@
 
 1. Coming soon
 
-Типовой расчет
+[Типовой расчет](https://drive.google.com/file/d/11n_jwjoDScxV-dFiQWWv9jp0PvF97eZM/view?usp=sharing) \(Делать всё, кроме номеров 1-3, но + номер 6 из прошлого типовика\)
 
