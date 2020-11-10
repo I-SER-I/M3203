@@ -36,7 +36,7 @@
 
 Моделирование:
 
-[Таблица для записи (Закрыто)](https://docs.google.com/spreadsheets/d/1s46AJ-bGdgiB0xcZ7VcOlyEI0tT2YgQnFSpM0akR9xQ/edit?usp=sharing)
+[Таблица для записи](https://docs.google.com/spreadsheets/d/1s46AJ-bGdgiB0xcZ7VcOlyEI0tT2YgQnFSpM0akR9xQ/edit?usp=sharing)
 
 [Задания моделирования](https://drive.google.com/file/d/17zIObxy5vXEUlphSWRGRSSo_fpTXnWNJ/view)
 
