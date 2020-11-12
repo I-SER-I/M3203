@@ -34,6 +34,8 @@
 
 **Преподаватель: Зинчик Александр Адольфович**
 
+📧: zinchik_alex@mail.ru
+
 Моделирование:
 
 [Таблица для записи](https://docs.google.com/spreadsheets/d/1s46AJ-bGdgiB0xcZ7VcOlyEI0tT2YgQnFSpM0akR9xQ/edit?usp=sharing)
