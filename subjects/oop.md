@@ -25,6 +25,8 @@
 
 [Система для отправки кода](https://reports.artrey.ru)
 
+[Очередь на сдачу](https://docs.google.com/spreadsheets/d/1kHn8UgYGXZbJee_dTHJXTzUId4jblC9tryPePjsPqKg/edit#gid=0)
+
 Задания лабораторных:
 
 1. [INI Файл](https://drive.google.com/file/d/1koxIp9u-PT3ZqzairQ9zQNkfCwm9A9uA/view)
