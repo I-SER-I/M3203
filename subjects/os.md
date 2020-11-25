@@ -17,6 +17,15 @@
 3. [Функции ОС](https://youtu.be/HETdXWS4Kho)
 4. [Системная архитекрура ОС](https://youtu.be/VDRD5lhV5OQ)
 5. [Coming soon](os.md)
+6. 
+7.
+8.
+9.
+10.
+11.
+12.
+13.[Файловые системы](os.md) / [Конспект](https://drive.google.com/file/d/1wMrgJWJsTLnK5jFx7UzuXRYxCFcLjFwQ/view?usp=sharing)
+
 
 ## Практики
 
@@ -32,5 +41,5 @@
 2. [Мониторинг процессов и ресурсов в ОС Linux](https://drive.google.com/file/d/193gWp6TKxkBtYPpJwUiOtW_XPwDAsFNi/view)
 3. [Управление процессами в ОС Linux](https://drive.google.com/file/d/11AYFPJw7jV1eapSUKmoT3ELBBWufGQAX/view?usp=sharing)
 4. [Работа с файлово-каталожной системой в ОС Linux](https://drive.google.com/file/d/1Z8tm1b9alpPno2bcSpOpRXlLrEUyISwF/view?usp=sharing)
-5. [Coming soon]
+5. [Управление памятью в ОС Linux](https://drive.google.com/file/d/1N9JZKzWwMzpC8QdZ0-mY-ib9qouAy_Ua/view?usp=sharing)
 6. [Coming soon]
