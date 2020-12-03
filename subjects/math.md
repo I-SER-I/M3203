@@ -10,10 +10,13 @@
 2. [Запись](https://youtu.be/-CRVyKbM8Y4) / [Материалы]()
 3. [Запись]() / [Материалы]()
 4. [Запись](https://youtu.be/V37RO-3aTow)
-5. [Запись](https://youtu.be/O6G8x3HIQdo) 
-...
+5. [Запись](https://youtu.be/O6G8x3HIQdo)
+6.
+7.
+8.
+9.
 10. Обыкновенные дифференциальные уравнения / [Конспект](https://drive.google.com/file/d/1ruk91_iOVW5GYhdABSie39FazK1hzxz3/view?usp=sharing) 
-11. ...
+11. 
 12. Дифференциальные уравнения высших порядков / [Конспект](https://drive.google.com/file/d/1mCe6a8kTtRkCNnaDmcIRr_IBkfpNCKE3/view?usp=sharing)
 
 ## Практики
