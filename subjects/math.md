@@ -18,6 +18,7 @@
 10. Обыкновенные дифференциальные уравнения / [Конспект](https://drive.google.com/file/d/1ruk91_iOVW5GYhdABSie39FazK1hzxz3/view?usp=sharing) 
 11. 
 12. Дифференциальные уравнения высших порядков / [Конспект](https://drive.google.com/file/d/1mCe6a8kTtRkCNnaDmcIRr_IBkfpNCKE3/view?usp=sharing)
+13. [Практика](https://drive.google.com/file/d/1_NoRW8m3bFYB7p9j19kH4yd7QB1d9az6/view?usp=sharing)
 
 ## Практики
 
