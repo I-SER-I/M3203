@@ -21,8 +21,8 @@
 7. [Планирование процессов в операционной системе](https://www.youtube.com/watch?v=YziljB7DJgI)
 8. [Реализация планирования процессов в различных операционных системах](https://www.youtube.com/watch?v=6MSSc4bOtFs)
 9. [Взаимодействие процессов](https://www.youtube.com/watch?v=YziljB7DJgI) / [Конспект](https://drive.google.com/file/d/1Fy4dSRQVeC0U13bar8fvEeusoicssKU5/view?usp=sharing) 
-10. [Взаимодействие процессов. Семафоры Дейкстра, мьютекс, двоичный семафор, спинлок](https://www.youtube.com/watch?v=Pa4DG3hdtuw)
-11. [Управление памятью в операционных системах](https://www.youtube.com/watch?v=AXjCOyycSP0)
+10. [Взаимодействие процессов. Семафоры Дейкстра, мьютекс, двоичный семафор, спинлок](https://www.youtube.com/watch?v=Pa4DG3hdtuw) / [Конспект](https://drive.google.com/file/d/1qoUggOF24ACvZ2Jxg2_PrYjmS33kgxpi/view?usp=sharing)
+11. [Управление памятью в операционных системах](https://www.youtube.com/watch?v=AXjCOyycSP0) / [Конспект](https://drive.google.com/file/d/1QHtyInV-ImfK82T7SrMydjNw7VAzhxg0/view?usp=sharing)
 12. [Управление памятью в операционных системах. Страничная организация виртуальной памяти](https://www.youtube.com/watch?v=mZ6IblnKMPQ)
 13. [Файловые системы](os.md) / [Конспект](https://drive.google.com/file/d/1wMrgJWJsTLnK5jFx7UzuXRYxCFcLjFwQ/view?usp=sharing)
 14. [Coming soon]
