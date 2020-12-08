@@ -14,8 +14,8 @@
 
 1. [Ввводная лекция \(07.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/2020-09-07.mp4?w=1) / [Конспект](https://drive.google.com/file/d/1m7Qf63S4wudzh_plSMOehnHUQBRY5tMn/view?usp=sharing)
 2. [Зачем нужен ООП? \(14.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/02-proc2oop-2020-09-14.mp4?w=1) / [Конспект](https://drive.google.com/file/d/1QQtATvrY4psHbE-qVbwfG0i2g5mfQ16D/view?usp=sharing)
-3. [Принципы проектирования. GRASP \(28.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/03-grasp-2020-09-28.mp4?w=1)/[Презентация](https://docs.google.com/presentation/d/13qoSF_MnO_tZ2N54yi4RHMl_sjDDe09OUT3Opg8Ct0k/edit#slide=id.g9c7e3e1ecd_0_60)
-4. [Принципы проектирования. SOLID \(05.10\)](https://yadi.sk/d/iGz5-Vunb5dKHA/04-solid-2020-10-05.mp4?w=1)/[Презентация](https://docs.google.com/presentation/d/13qoSF_MnO_tZ2N54yi4RHMl_sjDDe09OUT3Opg8Ct0k/edit?usp=sharing)
+3. [Принципы проектирования. GRASP \(28.09\)](https://yadi.sk/d/iGz5-Vunb5dKHA/03-grasp-2020-09-28.mp4?w=1) / [Презентация](https://docs.google.com/presentation/d/13qoSF_MnO_tZ2N54yi4RHMl_sjDDe09OUT3Opg8Ct0k/edit#slide=id.g9c7e3e1ecd_0_60) / [Конспект]( https://drive.google.com/file/d/1ZVBO4AwDodu4GZxUAOrCovraNtZoI5N3/view?usp=sharing)
+4. [Принципы проектирования. SOLID \(05.10\)](https://yadi.sk/d/iGz5-Vunb5dKHA/04-solid-2020-10-05.mp4?w=1) / [Презентация](https://docs.google.com/presentation/d/13qoSF_MnO_tZ2N54yi4RHMl_sjDDe09OUT3Opg8Ct0k/edit?usp=sharing)
 
 ## Практика
 
