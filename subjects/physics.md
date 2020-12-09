@@ -24,7 +24,7 @@
 10. [Звуковые волны. Элементы акустики](https://youtu.be/a9YUHa4P6gg)
 11. [Электромагнитные волны. Свет как ЭМ волна]
 12. [Интерференция света] / [Конспект](https://drive.google.com/file/d/1OJ8GYI6Skf-gcEFKq0_OGZzUjLJPeNKi/view?usp=sharing)
-13. [Пространственная и временная когерентность] / [Конспект](https://drive.google.com/file/d/1Gd9Xn4pQLak1OCcEaWwEQfPvTxzPAh-j/view?usp=sharing)
+13. [Пространственная и временная когерентность] / [Конспект](https://drive.google.com/file/d/1Gd9Xn4pQLak1OCcEaWwEQfPvTxzPAh-j/view?usp=sharing) / [Практика](https://drive.google.com/file/d/13D1oJzy7KSLOoIBOL5Q4LQMSnVGigaXz/view?usp=sharing)
 14. [Дифракция Френеля и Фраунгофера]
 15. [Элементы Фурье-оптики]
 16. [Поляризация света. Отражение и преломление света на границе раздела диэлектриков]
