@@ -22,7 +22,7 @@
 8. [Структурные паттерны: Декоратор, Фасад, Легковес, Заместитель](https://yadi.sk/d/iGz5-Vunb5dKHA/08-decorator-facade-flyweight-proxy-2020-11-09.mp4?w=1) / [Презентация](https://docs.google.com/presentation/d/1rEt_POlUWDbAYi1wofaETbzcf23yhLH96ex_sljBpVE/edit?usp=sharing)
 9. [Поведенческие паттерны: Цепочка обязанностей, Команда, Снимок, Итератор](https://yadi.sk/d/iGz5-Vunb5dKHA/09-chain-of-responsibility-command-memento-iterator-2020-11-16.mp4?w=1) / [Презентация](https://docs.google.com/presentation/d/1mhfQVBdeTcrN_r8wGvqSe1GEJgDm99h2kvplw0nbe6g/edit?usp=sharing)
 10. [Поведенческие паттерны: Посредник, Наблюдатель, Состояние, Стратегия, Шаблонный метод, Посетитель](https://yadi.sk/d/iGz5-Vunb5dKHA/10-mediator-observer-state-strategy-template-method-visitor-2020-11-23.mp4?w=1) / [Презентация](https://docs.google.com/presentation/d/1d2JmJroxmQf18-q3LUvscQMPnWttq-_jr2b8t0OpwVI/edit?usp=sharing)
-11. [Многоуровневая архитектура](https://yadi.sk/d/iGz5-Vunb5dKHA/11-multilayer-architecture-2020-11-30.mp4?w=1) / [Презентация](https://docs.google.com/presentation/d/1-IN9LDx8NbQTOMXBD8jpHDCun-vjxLdvnhqG6iXTArs/edit?usp=sharing)
+11. [Многоуровневая архитектура](https://yadi.sk/d/iGz5-Vunb5dKHA/11-multilayer-architecture-2020-11-30.mp4?w=1) / [Презентация](https://docs.google.com/presentation/d/1-IN9LDx8NbQTOMXBD8jpHDCun-vjxLdvnhqG6iXTArs/edit?usp=sharing) / [Конспект](https://drive.google.com/file/d/1Ti3f8B-mDVi35zSe7nWEkdZLdnBkiaeH/view?usp=sharing)
 
 ## Практика
 
