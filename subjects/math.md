@@ -1,5 +1,7 @@
 # Дополнительные главы высшей математики
 
+## [Билеты к экзамену](https://drive.google.com/file/d/1KulYs4lHZjVUtZ0Z7mQdkpJFu6LVN_Uq/view?usp=sharing)
+
 ## Лекции
 
 **Преподаватель: Исаева Татьяна Тимофеевна**
@@ -28,21 +30,10 @@
 [Задачник](https://drive.google.com/file/d/1-EqihpTfL0y6zdUEH0aPykguzkiKWxlg/view)
 
 ### Первый модуль
-
-Домашние задания
-
-1. 94-98, 101, 104, 107 \(от 14.09\)
-2. 187, 189, 190, 191 \(от 18.09\)
-3. ???
-4. 390, 393
    
 [Типовой расчет](https://drive.google.com/file/d/1LuFsD7bo1E09GaP--6uXxE0aln7AV8KM/view?usp=sharing) \(Делаем "типовой расчет Ряды", кроме VI\)
 
 ### Второй модуль
-
-Домашние задания
-
-1. Coming soon
 
 [Типовой расчет](https://drive.google.com/file/d/11n_jwjoDScxV-dFiQWWv9jp0PvF97eZM/view?usp=sharing) \(Делаем номера 3-5 + номер 6 из прошлого типовика\)
 
