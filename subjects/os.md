@@ -1,5 +1,7 @@
 # Операционные системы
 
+## [Билеты к экзамену](https://drive.google.com/file/d/11EZ-8JQsKu8NmDGc7UQO_ujBOG3QauQI/view?usp=sharing)
+
 ## Лекции
 
 | Лабы | Рубежки | Экзамен |

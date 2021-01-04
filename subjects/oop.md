@@ -6,6 +6,8 @@
 | :--- | :--- | :--- | :--- |
 | 60 | 10 | 10 | 20 |
 
+## [Билеты к экзамену](https://drive.google.com/file/d/1-8bhTFrHKvKzGZJPW6urvbeXneDRXe-4/view?usp=sharing)
+
 ## Лекции
 
 **Преподаватель: Иванов Александр Сергеевич**
