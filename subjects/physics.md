@@ -6,13 +6,15 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 20 | 6 | 20 | 24 | 6 | 24 |
 
+## [Билеты к экзамену](https://study.physics.itmo.ru/pluginfile.php/17516/mod_resource/content/1/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BA%20%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83%20%D0%BF%D0%BE%20%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5.pdf)
+
 ## Лекции
 
 **Преподаватель: Музыченко Яна Борисовна**
 
 Записи лекции / Материалы к лекции:
 
-1. [Основы магнитостатики. Магнитное поле
+1. [Основы магнитостатики. Магнитное поле]
 2. [Основные законы магнитостатики. Магнитное поле в веществе](https://youtu.be/Kg_VI3414Yk)
 3. [Магнитное поле в веществе](https://youtu.be/Uzj6DwszQFA)
 4. [Электромагнитная индукция. Уравнения Максвелла](https://youtu.be/xHJJ3GWBxAI)
@@ -42,7 +44,7 @@
 
 [Таблица для записи](https://docs.google.com/spreadsheets/d/1s46AJ-bGdgiB0xcZ7VcOlyEI0tT2YgQnFSpM0akR9xQ/edit?usp=sharing)
 
-[Задания моделирования](https://drive.google.com/file/d/17zIObxy5vXEUlphSWRGRSSo_fpTXnWNJ/view)
+[Задания моделирования](https://drive.google.com/file/d/13Nem0OblJ2_XVs_rbxNb38I9X3bnVQNI/view?usp=sharing)
 
 Лабораторные работы \(очно (по желанию) / дистант\):
 
