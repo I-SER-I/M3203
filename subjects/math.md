@@ -1,27 +1,26 @@
 # Дополнительные главы высшей математики
 
-## [Билеты к экзамену](https://drive.google.com/file/d/1KulYs4lHZjVUtZ0Z7mQdkpJFu6LVN_Uq/view?usp=sharing)
-
 ## Лекции
 
 **Преподаватель: Исаева Татьяна Тимофеевна**
 
 Записи лекции / Материалы к лекции:
 
-1. [Запись](https://youtu.be/MbRg1tHSesI) / [Материалы]()
-2. [Запись](https://youtu.be/-CRVyKbM8Y4) / [Материалы]()
-3. [Запись]() / [Материалы]()
-4. [Запись](https://youtu.be/V37RO-3aTow)
-5. [Запись](https://youtu.be/O6G8x3HIQdo)
-6. 
-7. 
-8. 
-9. 
-10. Обыкновенные дифференциальные уравнения / [Конспект](https://drive.google.com/file/d/1ruk91_iOVW5GYhdABSie39FazK1hzxz3/view?usp=sharing) 
-11. 
-12. Дифференциальные уравнения высших порядков / [Конспект](https://drive.google.com/file/d/1mCe6a8kTtRkCNnaDmcIRr_IBkfpNCKE3/view?usp=sharing)
-13. 
-14. [Практика](https://drive.google.com/file/d/1_NoRW8m3bFYB7p9j19kH4yd7QB1d9az6/view?usp=sharing)
+1. [Числовой ряд](https://youtu.be/MbRg1tHSesI)
+2. [Признаки Даламбера, радикальный и интегральный Коши](https://youtu.be/-CRVyKbM8Y4)
+3. [Функциональные ряды](https://youtu.be/GwwUsf8st4c)
+4. [Степенные ряды](https://youtu.be/V37RO-3aTow)
+5. [Некоторые приложения степенных рядов](https://youtu.be/O6G8x3HIQdo)
+6. [Переодическая функция f(x) T=2pi](https://youtu.be/h-tQKW7v3qo)
+7. [Свойство периодической функии f(x) T=2pi](https://youtu.be/kIfvLrPqx2I)
+8. [Ряд Фурье](https://youtu.be/9ZGO63ymNoc)
+9. [Интегралл Фурье в комплексной форме](https://youtu.be/hpEYtdyzjMc)
+10. [Обыкновенные ДУ](https://youtu.be/RFKa4UVDJJk)
+11. [ДУ Бернулли](https://youtu.be/1uNVyLtcR0g)
+12. [ДУ высших порядков](https://youtu.be/u-cOLhLZKgs)
+13. [Интегрирование ЛОДУ](https://youtu.be/fVR8aMBsw-M)
+14. [Решение ЛНДУ](https://youtu.be/xNhWg5TzZME)
+15. [Приближенное решение ДУ с использованием рядов](https://youtu.be/9iFyjEAhkwg)
 
 ## Практики
 
