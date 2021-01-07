@@ -12,23 +12,21 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Основы магнитостатики. Магнитное поле]
-2. [Основные законы магнитостатики. Магнитное поле в веществе](https://youtu.be/Kg_VI3414Yk)
+1. Магнитное поле в вакууме
+2. [Основные законы магнитостатики](https://youtu.be/Kg_VI3414Yk)
 3. [Магнитное поле в веществе](https://youtu.be/Uzj6DwszQFA)
 4. [Электромагнитная индукция. Уравнения Максвелла](https://youtu.be/xHJJ3GWBxAI)
-5. [Колебания. Основные характеристики. Типы колебаний Аналогии между(механическими и электромагнитными колебаниями](https://youtu.be/CQCXONFmVSw)
-6. [Свободные и вынужденные колебания. Резонанс](https://youtu.be/PsqAmz1TNAA)
-7. [Автоколебания. Колебания в системах со многими степенями свободы](https://youtu.be/DKDTx0fqTnc)
-8. [Модуляция сигнала: амплитудная и фазовая](https://youtu.be/4OohRanhUW0)
-9. [Волновое уравнение. Основные характеристики и типы волн](https://youtu.be/jkxr97Foyv8)
-10. [Звуковые волны. Элементы акустики](https://youtu.be/a9YUHa4P6gg)
-11. [Электромагнитные волны. Свет как ЭМ волна]
-12. [Интерференция света] / [Конспект](https://drive.google.com/file/d/1OJ8GYI6Skf-gcEFKq0_OGZzUjLJPeNKi/view?usp=sharing)
-13. [Пространственная и временная когерентность] / [Конспект](https://drive.google.com/file/d/1Gd9Xn4pQLak1OCcEaWwEQfPvTxzPAh-j/view?usp=sharing) / [Практика](https://drive.google.com/file/d/13D1oJzy7KSLOoIBOL5Q4LQMSnVGigaXz/view?usp=sharing)
-14. [Дифракция Френеля и Фраунгофера] / [Практика](https://drive.google.com/file/d/1CoJ6t08MyRkrRbb9uZKrCv22eXXrXzLk/view?usp=sharing)
-15. [Элементы Фурье-оптики]
-16. [Поляризация света. Отражение и преломление света на границе раздела диэлектриков]
-17. [Дисперсия света]
+5. [Колебания](https://youtu.be/CQCXONFmVSw)
+6. [Электромагнитные колебания](https://youtu.be/PsqAmz1TNAA)
+7. [Затухающие колебания](https://youtu.be/DKDTx0fqTnc)
+8. [Связанные системы. Модуляция сигналов](https://youtu.be/4OohRanhUW0)
+9. [Волны](https://youtu.be/jkxr97Foyv8)
+10. [Стоячие волны. Звуковые волны](https://youtu.be/a9YUHa4P6gg)
+11. [Электромагнитные волны](https://youtu.be/h4WXUJ-xZ2o)
+12. [Давление и импульс световой волны](https://youtu.be/58FLhip6Cu0) / [Конспект](https://drive.google.com/file/d/1OJ8GYI6Skf-gcEFKq0_OGZzUjLJPeNKi/view?usp=sharing)
+13. [Интерференция](https://youtu.be/X_qfyJqhbog) / [Конспект](https://drive.google.com/file/d/1Gd9Xn4pQLak1OCcEaWwEQfPvTxzPAh-j/view?usp=sharing) / [Практика](https://drive.google.com/file/d/13D1oJzy7KSLOoIBOL5Q4LQMSnVGigaXz/view?usp=sharing)
+14. [Дифракция света](https://youtu.be/AWoM8kBnUpE)
+15. [Дифракция света в дальней зоне(Фраунгофера)](https://youtu.be/IhobMSTBQqw)
 
 ## Практики
 
