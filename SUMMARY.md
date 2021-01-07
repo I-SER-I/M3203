@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Стартовая страница](README.md)
-* [Рассписание сессий](session.md)
+* [Сессия](session.md)
 
 ## Предметы <a id="subjects"></a>
 
