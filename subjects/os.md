@@ -1,10 +1,8 @@
 # Операционные системы
 
-## [Билеты к экзамену](https://drive.google.com/file/d/11EZ-8JQsKu8NmDGc7UQO_ujBOG3QauQI/view?usp=sharing)
-
 ## Лекции
 
-| Лабы | Рубежки | Экзамен |
+| Лабы | Рубежка | Экзамен |
 | :--- | :--- | :--- |
 | 60 | 20 | 20 |
 
@@ -26,9 +24,10 @@
 10. [Взаимодействие процессов. Семафоры Дейкстра, мьютекс, двоичный семафор, спинлок](https://www.youtube.com/watch?v=Pa4DG3hdtuw) / [Конспект](https://drive.google.com/file/d/1qoUggOF24ACvZ2Jxg2_PrYjmS33kgxpi/view?usp=sharing)
 11. [Управление памятью в операционных системах](https://www.youtube.com/watch?v=AXjCOyycSP0) / [Конспект](https://drive.google.com/file/d/1QHtyInV-ImfK82T7SrMydjNw7VAzhxg0/view?usp=sharing)
 12. [Управление памятью в операционных системах. Страничная организация виртуальной памяти](https://www.youtube.com/watch?v=mZ6IblnKMPQ)
-13. [Файловые системы](os.md) / [Конспект](https://drive.google.com/file/d/1wMrgJWJsTLnK5jFx7UzuXRYxCFcLjFwQ/view?usp=sharing)
-14. [Coming soon]
-
+13. [Файловые системы](https://youtu.be/TtcfVLQ2QGU) / [Конспект](https://drive.google.com/file/d/1wMrgJWJsTLnK5jFx7UzuXRYxCFcLjFwQ/view?usp=sharing)
+14. [Распределенные операционные системы](https://youtu.be/DYftRpk6YNI)
+15. [Технологии виртуализации](https://youtu.be/WlW6DzXM3Ks)
+16. [Облачная инфраструктура на основе технологий виртуализации](https://youtu.be/3pwIAAlOGX0)
 
 ## Практики
 
@@ -45,4 +44,4 @@
 3. [Управление процессами в ОС Linux](https://drive.google.com/file/d/11AYFPJw7jV1eapSUKmoT3ELBBWufGQAX/view?usp=sharing)
 4. [Работа с файлово-каталожной системой в ОС Linux](https://drive.google.com/file/d/1Z8tm1b9alpPno2bcSpOpRXlLrEUyISwF/view?usp=sharing)
 5. [Управление памятью в ОС Linux](https://drive.google.com/file/d/1N9JZKzWwMzpC8QdZ0-mY-ib9qouAy_Ua/view?usp=sharing)
-6. [Coming soon]
+6. [Консольный интерфейс ОС Windows](https://drive.google.com/file/d/1w49CcGijm-DrHfvVIPcmKuugL0BS4DqR/view?usp=sharing)
