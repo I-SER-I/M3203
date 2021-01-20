@@ -12,8 +12,8 @@
 
 Записи лекции / Материалы к лекции:
 
-1. Магнитное поле в вакууме
-2. [Основные законы магнитостатики](https://youtu.be/Kg_VI3414Yk)
+1. Магнитное поле в вакууме / [Конспект](https://drive.google.com/file/d/1Hsb_-xkectRHTJdfmogNOPhqJY4ulm4C/view?usp=sharing)
+2. [Основные законы магнитостатики](https://youtu.be/Kg_VI3414Yk) / [Конспект](https://drive.google.com/file/d/1NkpaiO-Wrxq1jU4FoG8_s42Qy8xRVDHh/view?usp=sharing)
 3. [Магнитное поле в веществе](https://youtu.be/Uzj6DwszQFA)
 4. [Электромагнитная индукция. Уравнения Максвелла](https://youtu.be/xHJJ3GWBxAI)
 5. [Колебания](https://youtu.be/CQCXONFmVSw)
@@ -24,7 +24,7 @@
 10. [Стоячие волны. Звуковые волны](https://youtu.be/a9YUHa4P6gg)
 11. [Электромагнитные волны](https://youtu.be/h4WXUJ-xZ2o)
 12. [Давление и импульс световой волны](https://youtu.be/58FLhip6Cu0) / [Конспект](https://drive.google.com/file/d/1OJ8GYI6Skf-gcEFKq0_OGZzUjLJPeNKi/view?usp=sharing)
-13. [Интерференция](https://youtu.be/X_qfyJqhbog) / [Конспект](https://drive.google.com/file/d/1Gd9Xn4pQLak1OCcEaWwEQfPvTxzPAh-j/view?usp=sharing) / [Практика](https://drive.google.com/file/d/13D1oJzy7KSLOoIBOL5Q4LQMSnVGigaXz/view?usp=sharing)
+13. [Интерференция](https://youtu.be/X_qfyJqhbog) / [Конспект](https://drive.google.com/file/d/1Gd9Xn4pQLak1OCcEaWwEQfPvTxzPAh-j/view?usp=sharing)
 14. [Дифракция света](https://youtu.be/AWoM8kBnUpE)
 15. [Дифракция света в дальней зоне(Фраунгофера)](https://youtu.be/IhobMSTBQqw)
 
