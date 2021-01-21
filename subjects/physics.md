@@ -14,9 +14,9 @@
 
 1. Магнитное поле в вакууме / [Конспект](https://drive.google.com/file/d/1Hsb_-xkectRHTJdfmogNOPhqJY4ulm4C/view?usp=sharing)
 2. [Основные законы магнитостатики](https://youtu.be/Kg_VI3414Yk) / [Конспект](https://drive.google.com/file/d/1NkpaiO-Wrxq1jU4FoG8_s42Qy8xRVDHh/view?usp=sharing)
-3. [Магнитное поле в веществе](https://youtu.be/Uzj6DwszQFA)
-4. [Электромагнитная индукция. Уравнения Максвелла](https://youtu.be/xHJJ3GWBxAI)
-5. [Колебания](https://youtu.be/CQCXONFmVSw)
+3. [Магнитное поле в веществе](https://youtu.be/Uzj6DwszQFA) / [Конспект](https://drive.google.com/file/d/1w5RWkagO2LS1rM4xSkrU4ANT7AojOA8v/view?usp=sharing)
+4. [Электромагнитная индукция. Уравнения Максвелла](https://youtu.be/xHJJ3GWBxAI) / [Конспект](https://drive.google.com/file/d/1j_hdH2-0mLYLGMbj3l0jhLxS3BlyA6U9/view?usp=sharing)
+5. [Колебания](https://youtu.be/CQCXONFmVSw) / [Конспект](https://drive.google.com/file/d/1w2KuGdGbU4XyDUMB_bygFBNQknIv1dAh/view?usp=sharing)
 6. [Электромагнитные колебания](https://youtu.be/PsqAmz1TNAA)
 7. [Затухающие колебания](https://youtu.be/DKDTx0fqTnc)
 8. [Связанные системы. Модуляция сигналов](https://youtu.be/4OohRanhUW0)
