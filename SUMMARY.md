@@ -5,9 +5,18 @@
 
 ## Предметы <a id="subjects"></a>
 
-* [Дополнительные главы высшей математики](subjects/math.md)
-* [Объектно-ориентированное программирование](subjects/oop.md)
-* [Операционные системы](subjects/os.md)
-* [Специальные разделы физики](subjects/physics.md)
-* [Безопасность жизнедеятельности](subjects/life-safety.md)
+* [Администрирование в OS Windows](subjects/adminoswin.md)
+* [Технологии програмирования](subjects/techprog.md)
+* [Прикладная математика](subjects/appmath.md)
+* [Дополнительные главы физики](subjects/physics.md)
+* [Инструментальные средства разработки ПО](subjects/devtools.md)
+* [Математическая статистика](subjects/math.md)
+* [Электротехника и электроника](subjects/eltech.md)
 
+## Архив <a id="subjects"></a>
+
+* [Дополнительные главы высшей математики](archive/math.md)
+* [Объектно-ориентированное программирование](archive/oop.md)
+* [Операционные системы](archive/os.md)
+* [Специальные разделы физики](archive/physics.md)
+* [Безопасность жизнедеятельности](archive/life-safety.md)
