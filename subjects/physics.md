@@ -12,26 +12,15 @@
 
 Записи лекции / Материалы к лекции:
 
-1. Магнитное поле в вакууме / [Конспект](https://drive.google.com/file/d/1Hsb_-xkectRHTJdfmogNOPhqJY4ulm4C/view?usp=sharing)
+1. [Магнитное поле в вакууме]()
+2. []()
 
 ## Практики
 
 **Преподаватель: Шоев Владислав Иванович**
 
-[Таблица с баллами](https://docs.google.com/spreadsheets/d/1M5Oej-e-IrN9iHlQCrZrxe8ndbmUQIaXDB2URbR6jEM/edit#gid=0)
+Домашние задания:
 
-Моделирование:
-
-[Таблица для записи](https://docs.google.com/spreadsheets/d/1s46AJ-bGdgiB0xcZ7VcOlyEI0tT2YgQnFSpM0akR9xQ/edit?usp=sharing)
-
-[Задания моделирования](https://drive.google.com/file/d/13Nem0OblJ2_XVs_rbxNb38I9X3bnVQNI/view?usp=sharing)
-
-Лабораторные работы \(очно (по желанию) / дистант\):
-
-1. лаб.работа с осциллографом
-2. 3.10 / 3.11V
-3. 1.05 / 1.24V или 1.28V
-4. 4.03 или 4.06 / 4.03V
-5. 4.09 или 4.15 или 5.06 / 4.11V
+1. []()
 
 [Сайт ФТФшников](https://study.physics.itmo.ru)
