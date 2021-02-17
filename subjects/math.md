@@ -18,6 +18,7 @@
 Записи практики:
 
 1. [Классическая схема](https://youtu.be/5CEMOn6j2AI)
+2. [Геометрическая вероятность и решение задач](https://youtu.be/R-3lf-EfV3Y) / [Конспект](https://drive.google.com/file/d/10oSEv609lPWx5HQKsLEINqxMLWyTYY6A/view?usp=sharing)
 
 Домашние задания (дедлайн):
 
