@@ -12,15 +12,15 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Магнитное поле в вакууме]()
+1. []()
 2. []()
 
 ## Практики
 
 **Преподаватель: Шоев Владислав Иванович**
 
-Домашние задания:
+Домашние задания и конспекты практик:
 
-1. []()
+1. [Задание на 19.02](https://drive.google.com/file/d/19-_TjnHRDbp3RKbui0wzbybRxdW2ygHz/view?usp=sharing) / [Конспект от 12.02](https://drive.google.com/file/d/1I5iIX9Y3r8K5dVg1aMGCCtvhm2dx5Ek5/view?usp=sharing)
 
 [Сайт ФТФшников](https://study.physics.itmo.ru)

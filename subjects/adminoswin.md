@@ -14,4 +14,4 @@
 
 Задания лабораторных:
 
-1. []()
+1. [Основные инструментальные средства управления Windows Server](https://drive.google.com/file/d/1VgQ9qo_Zw7qxGYeZfq3R26m9NvMglYGI/view?usp=sharing)
