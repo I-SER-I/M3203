@@ -22,19 +22,19 @@
 
 #### Домашние задания
 
-1. [Расчет цепей постоянного тока](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNXpY)
-2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNX6s)
-
 - [Расспределение по вариантам](https://drive.google.com/open?id=1TaVWmj4MF-8KkPTj29idPUAZ3zu0VMVD&disco=AAAAH5WvI7s)
 - [Шаблон отчета](https://drive.google.com/file/d/1gi0ec-KvG7KB1FooS4h-sukpb8ImhBqs/view?usp=sharing)
 
-#### Лабораторная работа
+1. [Расчет цепей постоянного тока](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNXpY)
+2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNX6s)
 
-1. [Исследование линейных двухполюсников в электрических цепях однофазного синусоидального тока](https://drive.google.com/open?id=1NvlNRL47iwH4AghEJkItkeI1izJOFDfc&disco=AAAAH5No9H0)
+#### Лабораторная работа
 
 - [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 - [Расспределение по вариантам](https://drive.google.com/file/d/1qGwOnqK1FwE8MyZ1sNSV6gSBc3gQFLuc/view?usp=sharing)
 - [Шаблон отчета](https://drive.google.com/file/d/1e8eSp0CrMLfoL7-D1uS8SdedY9BVZ9o7/view?usp=sharing)
+
+1. [Исследование линейных двухполюсников в электрических цепях однофазного синусоидального тока](https://drive.google.com/open?id=1NvlNRL47iwH4AghEJkItkeI1izJOFDfc&disco=AAAAH5No9H0)
 
 ## Электроника
 
