@@ -45,3 +45,4 @@
 4. [Работа с файлово-каталожной системой в ОС Linux](https://drive.google.com/file/d/1Z8tm1b9alpPno2bcSpOpRXlLrEUyISwF/view?usp=sharing)
 5. [Управление памятью в ОС Linux](https://drive.google.com/file/d/1N9JZKzWwMzpC8QdZ0-mY-ib9qouAy_Ua/view?usp=sharing)
 6. [Консольный интерфейс ОС Windows](https://drive.google.com/file/d/1w49CcGijm-DrHfvVIPcmKuugL0BS4DqR/view?usp=sharing)
+
