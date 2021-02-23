@@ -8,7 +8,7 @@
 
 * [Администрирование в OS Windows](subjects/adminoswin.md)
 * [Технологии програмирования](subjects/techprog.md)
-* [Прикладная математика](subjects/appmath.md)
+* [Прикладная математика](subjects/prikladnaya-matematika.md)
 * [Дополнительные главы физики](subjects/physics.md)
 * [Инструментальные средства разработки ПО](subjects/devtools.md)
 * [Математическая статистика](subjects/math.md)
@@ -21,3 +21,4 @@
 * [Операционные системы](archive/os.md)
 * [Специальные разделы физики](archive/physics.md)
 * [Безопасность жизнедеятельности](archive/life-safety.md)
+
