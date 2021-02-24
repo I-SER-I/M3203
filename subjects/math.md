@@ -15,6 +15,8 @@
 
 [Сайт Бабушкина](https://mvbabushkin.xyz)
 
+[Таблица с баллами](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4Xki3C6no7cJBMjoY8YjaSVO7tQNw3gDRvYp6AzmnSSW5gbceedxyBbhTAzC-9Bljl4gl_v9oF1ZI/pubhtml#)
+
 Записи практики:
 
 1. [Классическая схема](https://youtu.be/5CEMOn6j2AI)
@@ -22,4 +24,4 @@
 Домашние задания \(дедлайн\):
 
 1. [Классическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=297) \(22.02\)
-2. 
+2. [Геометрическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(1.02\)
