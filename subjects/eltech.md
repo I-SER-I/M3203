@@ -21,8 +21,10 @@
 
 Записи практики / Материалы к практики
 
+
 1. [Анализ цепей постоянного тока](eltech.md) / [Презентация](https://drive.google.com/file/d/14A6gzXtBk19BkDlDfXQwyzdggpzSuHwE/view?usp=sharing)
 2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://youtu.be/P2NQkVR10bg) / [Презентация](https://drive.google.com/file/d/1XX5Ux36-PCP4bg_4dns15H_OdScNGQ0-/view?usp=sharing)
+
 
 #### Домашние задания (Дедлайн по всем д/з - 05.03)
 
