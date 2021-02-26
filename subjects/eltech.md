@@ -15,12 +15,18 @@
 
 **Преподаватель: Никитина Мария Владимировна**
 
+📧: mvnikitina@itmo.ru
+
+[Правила курса](https://drive.google.com/file/d/1TaVWmj4MF-8KkPTj29idPUAZ3zu0VMVD/view?usp=sharing)
+
 Записи практики / Материалы к практики
 
-1. [Анализ цепей постоянного тока](eltech.md) / [Презентация](https://drive.google.com/file/d/1XX5Ux36-PCP4bg_4dns15H_OdScNGQ0-/view?usp=sharing)
-2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://www.youtube.com/watch?v=P2NQkVR10bg) / [Презентация](https://drive.google.com/file/d/14A6gzXtBk19BkDlDfXQwyzdggpzSuHwE/view?usp=sharing)
 
-#### Домашние задания
+1. [Анализ цепей постоянного тока](eltech.md) / [Презентация](https://drive.google.com/file/d/14A6gzXtBk19BkDlDfXQwyzdggpzSuHwE/view?usp=sharing)
+2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://youtu.be/P2NQkVR10bg) / [Презентация](https://drive.google.com/file/d/1XX5Ux36-PCP4bg_4dns15H_OdScNGQ0-/view?usp=sharing)
+
+
+#### Домашние задания (Дедлайн по всем д/з - 05.03)
 
 1. [Расчет цепей постоянного тока](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNXpY)
 2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNX6s)
@@ -29,7 +35,7 @@
 - [Расспределение по вариантам](https://drive.google.com/open?id=1TaVWmj4MF-8KkPTj29idPUAZ3zu0VMVD&disco=AAAAH5WvI7s)
 - [Шаблон отчета](https://drive.google.com/file/d/1gi0ec-KvG7KB1FooS4h-sukpb8ImhBqs/view?usp=sharing)
 
-#### Лабораторная работа
+#### Лабораторная работа (Дедлайн - 12.03)
 
 1. [Исследование линейных двухполюсников в электрических цепях однофазного синусоидального тока](https://drive.google.com/open?id=1NvlNRL47iwH4AghEJkItkeI1izJOFDfc&disco=AAAAH5No9H0)
 
