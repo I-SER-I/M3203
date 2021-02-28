@@ -2,6 +2,7 @@
 
 * [Стартовая страница](README.md)
 * [Рассписание](shedule.md)
+* [Дедлайны](deadlines.md)
 * [Сессия](session.md)
 
 ## Предметы <a id="subjects"></a>
