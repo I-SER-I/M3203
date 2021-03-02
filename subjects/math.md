@@ -8,6 +8,8 @@
 
 1. [Теория вероятности](https://youtu.be/XtI9yF0AQ0w)   
 2. [Аксиоматика Колмогорова. Теорема Байеса](https://youtu.be/6SQtingtUbk)
+3. [Схема Бернулли и предельные формулы](https://www.youtube.com/watch?v=65XwPX0IQT0&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=3)
+4. 
 
 ## Практики
 
@@ -19,9 +21,13 @@
 
 Записи практики:
 
-1. [Классическая схема](https://youtu.be/5CEMOn6j2AI)
+1. [Классическая схема 09.02](https://youtu.be/5CEMOn6j2AI)
+2. [Геометрическая веротяность 16.02](https://youtu.be/R-3lf-EfV3Y) / [Конспект](https://drive.google.com/file/d/10oSEv609lPWx5HQKsLEINqxMLWyTYY6A/view?usp=sharing)
+3. [Условная вероятность 02.03](https://youtu.be/TjIxZgSj48k) / [Конспект](https://drive.google.com/file/d/1wyJUO2kK4ShnGSKjeW24s4xZW3Raz97d/view?usp=sharing)
+4. 
 
 Домашние задания \(дедлайн\):
 
 1. [Классическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=297) \(22.02\)
 2. [Геометрическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(1.02\)
+3. 
