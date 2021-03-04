@@ -13,6 +13,7 @@
 |17 марта 2021 | Администрирование в ОС Windows | [Лабораторная работа №1](https://drive.google.com/file/d/1VgQ9qo_Zw7qxGYeZfq3R26m9NvMglYGI/view?usp=sharing) |
 | | | |
 |25 марта 2021 | Дополнительные главы физики | [Защита одной из лабораторных работ](https://study.physics.itmo.ru/) |
+| | Прикладная математика | [Лабораторная работа №1](http://mathdep.ifmo.ru/wp-content/uploads/2021/03/Lab_1_pm.pdf) |
 | | | |
 |02 апреля 2021 | Дополнительные главы физики | [Защита одной из лабораторных работ](https://study.physics.itmo.ru/) |
 | | | |
