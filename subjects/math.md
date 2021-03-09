@@ -24,7 +24,7 @@
 1. [Классическая схема 09.02](https://youtu.be/5CEMOn6j2AI)
 2. [Геометрическая веротяность 16.02](https://youtu.be/R-3lf-EfV3Y) / [Конспект](https://drive.google.com/file/d/10oSEv609lPWx5HQKsLEINqxMLWyTYY6A/view?usp=sharing)
 3. [Условная вероятность 02.03](https://youtu.be/TjIxZgSj48k) / [Конспект](https://drive.google.com/file/d/1wyJUO2kK4ShnGSKjeW24s4xZW3Raz97d/view?usp=sharing)
-4. 
+4. [Формула Байеса 09.03](https://youtu.be/1QHzsa2vN4c)
 
 Домашние задания \(дедлайн\):
 
