@@ -11,6 +11,12 @@
 
 **Преподаватель: Приискалов Роман Андреевич**
 
+[Таблица с баллами](https://docs.google.com/spreadsheets/d/1AtlSNdKPTzOT4p4w3u_Pr1xPyy-hd26kPGq8HyQeQuk/edit?usp=sharing)
+
+[Запись на очередь](https://docs.google.com/spreadsheets/d/1E-cEAjV-gN7XhgUYl2rtMv6Ng1eN7yqIzIEzHrjgOZ8/edit#gid=0)
+
+[Загружать отчеты](https://drive.google.com/drive/folders/1xaqmcKoo_d9neJqudSiWHBJPxMk9asQ2?usp=sharing)
+
 Задания лабораторных:
 
 1. [Настройка IDE](https://drive.google.com/file/d/1GqmeOTbdS7W210KpwUj2jFe0CykeNLfj/view?usp=sharing)
