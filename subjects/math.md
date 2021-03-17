@@ -24,10 +24,12 @@
 1. [Классическая схема 09.02](https://youtu.be/5CEMOn6j2AI)
 2. [Геометрическая веротяность 16.02](https://youtu.be/R-3lf-EfV3Y) / [Конспект](https://drive.google.com/file/d/10oSEv609lPWx5HQKsLEINqxMLWyTYY6A/view?usp=sharing)
 3. [Условная вероятность 02.03](https://youtu.be/TjIxZgSj48k) / [Конспект](https://drive.google.com/file/d/1wyJUO2kK4ShnGSKjeW24s4xZW3Raz97d/view?usp=sharing)
-4. 
+4. [Формула Байеса 09.03](https://youtu.be/1QHzsa2vN4c) / [Конспект](https://drive.google.com/file/d/1Tk_5x69epfMQLjB0lakaVITHKk92_aYq/view?usp=sharing)
+5. [Схема Бернулли 16.03] / [Конспект](https://drive.google.com/file/d/1NMlKkPl5e2jHbS4QStjcW1KgfNM9eLQh/view?usp=sharing)
 
 Домашние задания \(дедлайн\):
 
 1. [Классическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=297) \(22.02\)
-2. [Геометрическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(1.02\)
-3. 
+2. [Геометрическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(1.03\)
+3. [Условные вероятности, теоремы сложения и умножения](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(16.03\)
+4. [Формула полной вероятности, формула Байеса](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(23.03\)
