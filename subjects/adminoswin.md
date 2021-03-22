@@ -6,7 +6,8 @@
 
 Записи лекции / Материалы к лекции:
 
-1.
+1. [Лекция №1](https://www.youtube.com/watch?v=Is59RixIkBU&list=PLj7ewET2KEJyfxT-GV3D2QbY81Eo-KDY8&index=1)
+2. [Лекция №2](https://www.youtube.com/watch?v=DgNLrCBa-oc&list=PLj7ewET2KEJyfxT-GV3D2QbY81Eo-KDY8&index=2)
 
 ## Практики
 
