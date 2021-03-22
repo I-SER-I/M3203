@@ -10,6 +10,8 @@
 
 1. [Электрические цепи постоянного тока](https://youtu.be/jK4JD-j807c) / [Презентация](https://drive.google.com/file/d/170yT4XpDk_WVjBHREIMcRtaig5uTANBA/view?usp=sharing)
 2. [Цепи синусоидального тока. Резонанс](https://youtu.be/HGfwvPOmPEs) / [Презентация](https://drive.google.com/file/d/1fplJQUMW6kj7YG5g2nrMT1eDyImqzZ5O/view?usp=sharing)
+3. [Переходные процессы](https://www.youtube.com/watch?v=IuMWSKCNnqo&list=PLj7ewET2KEJweLQiLJWx8ry9Mw797ph9m&index=3)
+4. [Вводная лекция по электронике](https://www.youtube.com/watch?v=vubWdWGkKTs&list=PLj7ewET2KEJweLQiLJWx8ry9Mw797ph9m&index=4)
 
 ### Практики
 
