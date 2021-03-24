@@ -25,7 +25,8 @@
 2. [Геометрическая веротяность 16.02](https://youtu.be/R-3lf-EfV3Y) / [Конспект](https://drive.google.com/file/d/10oSEv609lPWx5HQKsLEINqxMLWyTYY6A/view?usp=sharing)
 3. [Условная вероятность 02.03](https://youtu.be/TjIxZgSj48k) / [Конспект](https://drive.google.com/file/d/1wyJUO2kK4ShnGSKjeW24s4xZW3Raz97d/view?usp=sharing)
 4. [Формула Байеса 09.03](https://youtu.be/1QHzsa2vN4c) / [Конспект](https://drive.google.com/file/d/1Tk_5x69epfMQLjB0lakaVITHKk92_aYq/view?usp=sharing)
-5. [Схема Бернулли 16.03] / [Конспект](https://drive.google.com/file/d/1NMlKkPl5e2jHbS4QStjcW1KgfNM9eLQh/view?usp=sharing)
+5. [Схема Бернулли 16.03]() / [Конспект](https://drive.google.com/file/d/1NMlKkPl5e2jHbS4QStjcW1KgfNM9eLQh/view?usp=sharing)
+6. [Случайные величины 23.03](https://www.youtube.com/watch?v=k6kcHYAKfhIЫ) / [Конспект](https://drive.google.com/file/d/124YqoNJ3ptLHzq_W2VzccbsdwMtshN3W/view?usp=sharing)
 
 Домашние задания \(дедлайн\):
 
