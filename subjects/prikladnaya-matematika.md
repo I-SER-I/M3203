@@ -5,9 +5,13 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Тема #0 - Введение](https://www.youtube.com/watch?v=kGBbLLmqzHk&feature=youtu.be)
-2. [Тема #1 - Методы одномерной оптимизации нулевого порядка](https://www.youtube.com/playlist?list=PL5QbT-WZpEzqQiPLtmmk9sgNRbOcQIUVT) / [Конспект](http://mathdep.ifmo.ru/wp-content/uploads/2021/02/lec_1_optimization.pdf)
-3. [Тема #2 - Методы оптимизации первого порядка](https://www.youtube.com/playlist?list=PL5QbT-WZpEzoZRBHCxqw0v_p1mGHeV9Mp) / [Материалы](https://niuitmo-my.sharepoint.com/:o:/g/personal/mushu_niuitmo_ru/EuAXpa2uKsJPlXtmtGwTixwBMVFsGHLGu96g6aN9jrSxgg?rtime=yq4nngvf2Eg)
+1. [Введение (01.03.21)](https://www.youtube.com/watch?v=kGBbLLmqzHk&feature=youtu.be)
+2. [Методы одномерной оптимизации нулевого порядка (предоставлено в записи)](https://www.youtube.com/playlist?list=PL5QbT-WZpEzqQiPLtmmk9sgNRbOcQIUVT) / [Конспект](http://mathdep.ifmo.ru/wp-content/uploads/2021/02/lec_1_optimization.pdf)
+3. [Методы оптимизации первого порядка (предоставлено в записи)](https://www.youtube.com/playlist?list=PL5QbT-WZpEzoZRBHCxqw0v_p1mGHeV9Mp) / [Материалы](https://niuitmo-my.sharepoint.com/:o:/g/personal/mushu_niuitmo_ru/EuAXpa2uKsJPlXtmtGwTixwBMVFsGHLGu96g6aN9jrSxgg?rtime=yq4nngvf2Eg)
+4. [Многомерная безусловная оптимизация (15.03.21)](https://www.youtube.com/watch?v=8tquIlWLZnk&list=PL5QbT-WZpEzoei59j4O2oMHW_afnpYbAs&index=2)
+5. [Минимизация квадратичной функции (15.03.21)](https://www.youtube.com/watch?v=UTRJME-Wj9Q&list=PL5QbT-WZpEzoei59j4O2oMHW_afnpYbAs&index=3)
+6. [Метод Ньютона (22.03.21)](https://www.youtube.com/watch?v=ZGu2_6Knobs&list=PL5QbT-WZpEzoei59j4O2oMHW_afnpYbAs&index=4)
+
 
 ## Практики
 
@@ -20,3 +24,4 @@
 Лабораторные работы:
 
 1. [Лабораторная работа №1](http://mathdep.ifmo.ru/wp-content/uploads/2021/03/Lab_1_pm.pdf)
+2. [Лабораторная работа №2](http://mathdep.ifmo.ru/wp-content/uploads/2021/03/Lab_2_pm.pdf)
