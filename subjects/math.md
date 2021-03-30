@@ -9,7 +9,10 @@
 1. [Теория вероятности](https://youtu.be/XtI9yF0AQ0w)   
 2. [Аксиоматика Колмогорова. Теорема Байеса](https://youtu.be/6SQtingtUbk)
 3. [Схема Бернулли и предельные формулы](https://www.youtube.com/watch?v=65XwPX0IQT0&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=3)
-4. 
+4. [Случайные величины](https://www.youtube.com/watch?v=ILD8A7-IqQc&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=4)
+5. [Математическое ожидание и дисперсия. Непрерывные случайные величины](https://www.youtube.com/watch?v=Mb1DWq2VDKY&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=5)
+6. [Основные распредления непрерывных случайных величин](https://www.youtube.com/watch?v=w0YUrnV3sxk&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=6)
+7. [Случайный вектор и его числовые характеристики](https://www.youtube.com/watch?v=AmeIeW10rQA&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=7)
 
 ## Практики
 
@@ -26,11 +29,5 @@
 3. [Условная вероятность 02.03](https://youtu.be/TjIxZgSj48k) / [Конспект](https://drive.google.com/file/d/1wyJUO2kK4ShnGSKjeW24s4xZW3Raz97d/view?usp=sharing)
 4. [Формула Байеса 09.03](https://youtu.be/1QHzsa2vN4c) / [Конспект](https://drive.google.com/file/d/1Tk_5x69epfMQLjB0lakaVITHKk92_aYq/view?usp=sharing)
 5. [Схема Бернулли 16.03]() / [Конспект](https://drive.google.com/file/d/1NMlKkPl5e2jHbS4QStjcW1KgfNM9eLQh/view?usp=sharing)
-6. [Случайные величины 23.03](https://www.youtube.com/watch?v=k6kcHYAKfhIЫ) / [Конспект](https://drive.google.com/file/d/124YqoNJ3ptLHzq_W2VzccbsdwMtshN3W/view?usp=sharing)
-
-Домашние задания \(дедлайн\):
-
-1. [Классическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=297) \(22.02\)
-2. [Геометрическая схема](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(1.03\)
-3. [Условные вероятности, теоремы сложения и умножения](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(16.03\)
-4. [Формула полной вероятности, формула Байеса](https://mvbabushkin.xyz/mod/quiz/view.php?id=311) \(23.03\)
+6. [Дискретные случайные величины 23.03](https://www.youtube.com/watch?v=k6kcHYAKfhIЫ) / [Конспект](https://drive.google.com/file/d/124YqoNJ3ptLHzq_W2VzccbsdwMtshN3W/view?usp=sharing)
+7. [Непрерывные случайные величины 30.03](https://www.youtube.com/watch?v=LXLfGRaWOX8) / [Конспект](https://drive.google.com/file/d/1_0HZdZk6sN2yZhg8xnv4QIH3pQXJ_4_o/view?usp=sharing)
