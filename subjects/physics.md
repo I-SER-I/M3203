@@ -21,6 +21,8 @@
 
 **Преподаватель: Шоев Владислав Иванович**
 
+[Очередь на сдачу лабораторных работ](https://docs.google.com/spreadsheets/d/1pim9w4OG_JM61tk4oKm4Hd1c7zcfpdDc-iGg_fjeaU4/edit#gid=0)
+
 Домашние задания и конспекты практик:
 
 1. [Задание на 19.02](https://drive.google.com/file/d/19-_TjnHRDbp3RKbui0wzbybRxdW2ygHz/view?usp=sharing) / [Конспект от 12.02](https://drive.google.com/file/d/1I5iIX9Y3r8K5dVg1aMGCCtvhm2dx5Ek5/view?usp=sharing)
