@@ -13,6 +13,8 @@
 
 **Преподаватель: Береснев Артем Дмитриевич**
 
+[Таблица с результатами](https://docs.google.com/spreadsheets/d/10zTunwUxbw-KJ2nfV1eZMwYCj-97M--EIe3XrXrEhgk/edit#gid=446010491)
+
 Задания лабораторных:
 
 1. [Основные инструментальные средства управления Windows Server](https://drive.google.com/file/d/1VgQ9qo_Zw7qxGYeZfq3R26m9NvMglYGI/view?usp=sharing)
