@@ -6,7 +6,7 @@
 
 Записи лекции / Материалы к лекции:
 
-1. [Теория вероятности](https://youtu.be/XtI9yF0AQ0w)   
+1. [Теория вероятности](https://youtu.be/XtI9yF0AQ0w) / [Конспект](https://drive.google.com/file/d/1xa8szYTXE-vHBSEge0nzqVBukbYLUVUL/view?usp=sharing)   
 2. [Аксиоматика Колмогорова. Теорема Байеса](https://youtu.be/6SQtingtUbk)
 3. [Схема Бернулли и предельные формулы](https://www.youtube.com/watch?v=65XwPX0IQT0&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=3)
 4. [Случайные величины](https://www.youtube.com/watch?v=ILD8A7-IqQc&list=PLj7ewET2KEJySepkftvi6lUw6C5oRQqf9&index=4)
