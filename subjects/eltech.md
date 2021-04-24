@@ -28,7 +28,7 @@
 2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://youtu.be/P2NQkVR10bg) / [Презентация](https://drive.google.com/file/d/1XX5Ux36-PCP4bg_4dns15H_OdScNGQ0-/view?usp=sharing)
 
 
-#### Домашние задания (Дедлайн по всем д/з - 05.03)
+#### Домашние задания
 
 1. [Расчет цепей постоянного тока](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNXpY)
 2. [Расчет цепей синусоидального тока методом комплексных амплитуд](https://drive.google.com/open?id=1RM41HfIv0r5BFrDsEDJM1vUo9bwS3BpP&disco=AAAAH5QNX6s)
@@ -37,7 +37,7 @@
 - [Расспределение по вариантам](https://drive.google.com/open?id=1TaVWmj4MF-8KkPTj29idPUAZ3zu0VMVD&disco=AAAAH5WvI7s)
 - [Шаблон отчета](https://drive.google.com/file/d/1gi0ec-KvG7KB1FooS4h-sukpb8ImhBqs/view?usp=sharing)
 
-#### Лабораторная работа (Дедлайн - 12.03)
+#### Лабораторная работа
 
 1. [Исследование линейных двухполюсников в электрических цепях однофазного синусоидального тока](https://drive.google.com/open?id=1NvlNRL47iwH4AghEJkItkeI1izJOFDfc&disco=AAAAH5No9H0)
 
