@@ -32,4 +32,4 @@
 6. [Дискретные случайные величины 23.03](https://www.youtube.com/watch?v=k6kcHYAKfhIЫ) / [Конспект](https://drive.google.com/file/d/124YqoNJ3ptLHzq_W2VzccbsdwMtshN3W/view?usp=sharing)
 7. [Непрерывные случайные величины 30.03](https://www.youtube.com/watch?v=LXLfGRaWOX8) / [Конспект](https://drive.google.com/file/d/1_0HZdZk6sN2yZhg8xnv4QIH3pQXJ_4_o/view?usp=sharing)
 9. [Функции случайных величин 13.04](https://www.youtube.com/watch?v=iJzRvcrd558) / [Конспект](https://drive.google.com/file/d/10VNdRmVUAhSZIMJNDHbeOWNIxohuvN8G/view?usp=sharing)
-10. [Случайные векторы]() / [Конспект](https://drive.google.com/file/d/1KcicYcUlsqBvH5r7pTbrKlAfuE96AlWl/view?usp=sharing)
+10. [Случайные векторы](https://www.youtube.com/watch?v=LKniv3GL4ws) / [Конспект](https://drive.google.com/file/d/1KcicYcUlsqBvH5r7pTbrKlAfuE96AlWl/view?usp=sharing)

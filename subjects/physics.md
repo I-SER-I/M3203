@@ -31,7 +31,10 @@
 4.  [Задание на 05.03](https://drive.google.com/file/d/1D1xKrpOFjA5hgwPR55gsZQhTXdyEteML/view?usp=sharing) / [Конспект от 26.02](https://drive.google.com/file/d/1hxfrnCxXO-xVTS8b2QSsMG1-x-BxhLnm/view?usp=sharing)
 4.  [Задание на 12.03](https://drive.google.com/file/d/1S2p2k-G8LqqppGvwib9YhmZqbCIarOpD/view?usp=sharing) / [Конспект от 05.03](https://drive.google.com/file/d/1fpJGGtJ9WdwS88OOa7b54inBauXfpU5D/view?usp=sharing)
 5.  [Задание на 19.03](https://drive.google.com/file/d/1S1lvaIkMzgDwwaaIQBzlYXonOikSZxaK/view?usp=sharing) / [Конспект от 12.03](https://drive.google.com/file/d/1Xsuh-IsEuL3AdSScBC68T9G_J_ugv4kE/view?usp=sharing)
-6.  [Задание на 26.03]() / [Конспект от 19.03](https://drive.google.com/file/d/1ppup2h0E_vW2rqHfTZNI9pfMcCX7Ka30/view?usp=sharing)
+6.  [Задание на 26.03](https://study.physics.itmo.ru) / [Конспект от 19.03](https://drive.google.com/file/d/1ppup2h0E_vW2rqHfTZNI9pfMcCX7Ka30/view?usp=sharing)
+7. [Задание на 02.04](https://study.physics.itmo.ru) / [Конспект от 26.03](https://drive.google.com/file/d/1iHHQIqA2VAdfXYAjzq11_9DDPWIOazuO/view?usp=sharing)
+8. Задание на 09.04 - подготовка к КР / [Конспект от 02.04](https://drive.google.com/file/d/1GYP7R8soWsykFZKzJ5GXyb6jV1wFNNHF/view?usp=sharing)
+9. [Задание на 30.04](https://study.physics.itmo.ru) / [Конспект от 23.04](https://www.youtube.com/watch?v=OwoRumIt5RA) / [Запись практики](https://www.youtube.com/watch?v=OwoRumIt5RA)
 
 [Сайт ФТФшников](https://study.physics.itmo.ru)
 
