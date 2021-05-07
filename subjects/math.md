@@ -34,3 +34,4 @@
 9. [Функции случайных величин 13.04](https://www.youtube.com/watch?v=iJzRvcrd558) / [Конспект](https://drive.google.com/file/d/10VNdRmVUAhSZIMJNDHbeOWNIxohuvN8G/view?usp=sharing)
 10. [Случайные векторы 20.04](https://www.youtube.com/watch?v=LKniv3GL4ws) / [Конспект](https://drive.google.com/file/d/1KcicYcUlsqBvH5r7pTbrKlAfuE96AlWl/view?usp=sharing)
 11. [Введение в математическую статистику 27.04](https://www.youtube.com/watch?v=VYa5LLCbWng) / [Конспект](https://drive.google.com/file/d/1L5JrLmTtORBRdz2JSTFSLT7JwtMJRVIf/view?usp=sharing)
+12. [Метод обратной замены 04.05](https://www.youtube.com/watch?v=ppaoDcy9J1E) / [Конспект](https://drive.google.com/file/d/1MsJWQRx2FS5x5lNg1DClBg1FWiP7gq3w/view?usp=sharing)

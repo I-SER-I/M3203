@@ -36,5 +36,6 @@
 9. Задание на 09.04 - подготовка к КР / [Конспект от 02.04](https://drive.google.com/file/d/1GYP7R8soWsykFZKzJ5GXyb6jV1wFNNHF/view?usp=sharing)
 10. [Задание на 30.04](https://study.physics.itmo.ru) / [Конспект от 23.04](https://www.youtube.com/watch?v=OwoRumIt5RA) / [Запись практики](https://www.youtube.com/watch?v=OwoRumIt5RA)
 12. [Задание на 07.05](https://study.physics.itmo.ru) / [Конспект от 30.04](https://drive.google.com/file/d/1AEdd0YDmU8pg5HJwlvBs6Hm4dSyh7dRz/view?usp=sharing) 
+13. [Задание на 14.05](https://study.physics.itmo.ru) / [Конспект от 07.05](https://drive.google.com/file/d/13xO26Q3X_YUBjWuMsVXf-IB-m62M06Cc/view?usp=sharing) 
 
 [Сайт ФТФшников](https://study.physics.itmo.ru)
