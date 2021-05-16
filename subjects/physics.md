@@ -37,5 +37,6 @@
 10. [Задание на 30.04](https://study.physics.itmo.ru) / [Конспект от 23.04](https://www.youtube.com/watch?v=OwoRumIt5RA) / [Запись практики](https://www.youtube.com/watch?v=OwoRumIt5RA)
 12. [Задание на 07.05](https://study.physics.itmo.ru) / [Конспект от 30.04](https://drive.google.com/file/d/1AEdd0YDmU8pg5HJwlvBs6Hm4dSyh7dRz/view?usp=sharing) 
 13. [Задание на 14.05](https://study.physics.itmo.ru) / [Конспект от 07.05](https://drive.google.com/file/d/13xO26Q3X_YUBjWuMsVXf-IB-m62M06Cc/view?usp=sharing) 
+14. [Задание на 21.05](https://study.physics.itmo.ru) / [Конспект от 07.05]() / [Запись практики](https://www.youtube.com/watch?v=ZLowcyFfS8U)
 
 [Сайт ФТФшников](https://study.physics.itmo.ru)

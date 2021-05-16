@@ -1,16 +1,12 @@
 | Дата дедлайна | Предмет | Задание |
 | :---: | :---: | :---: | 
-|12 мая 2021 | Администрирование в ОС Windows | [Лабораторная работа №5](https://drive.google.com/file/d/1GXZZZpFkp9Buic99kkpTanGc9OfK-Vvc/view?usp=sharing) |
+|19 мая 2021 | Технологии программирования | [Лабораторная работа №3](https://www.notion.so/1-c91c505841034d6381934db51a8ce3a9) |
 | | | |
-|15 мая 2021 | Технологии программирования | [Лабораторная работа №3](https://www.notion.so/1-c91c505841034d6381934db51a8ce3a9) |
+|22 мая 2021 | Прикладная математика | [Лабораторная работа №3](http://mathdep.ifmo.ru/app_math_3/) |
 | | | |
-|16 мая 2021 | Прикладная математика | [Лабораторная работа №3](http://mathdep.ifmo.ru/app_math_3/) |
+|26 мая 2021 | Администрирование в ОС Windows | [Лабораторная работа №5, 6](https://drive.google.com/file/d/1ekUqC2J93BhQsvzvsIxOXou_bzCbptLM/view?usp=sharing) |
 | | | |
 |28 мая 2021 | Дополнительные главы физики | [Защита одной из лабораторных работ](https://study.physics.itmo.ru/) |
-| | | |
-|23 мая 2021 | Прикладная математика | [Лабораторная работа №4](http://mathdep.ifmo.ru/app_math_3/) |
-| | | |
-|26 мая 2021 | Администрирование в ОС Windows | [Лабораторная работа №6](https://drive.google.com/file/d/1ekUqC2J93BhQsvzvsIxOXou_bzCbptLM/view?usp=sharing) |
 | | | |
 |31 мая 2021 | Инструментальные средства разработки ПО | [Лабораторная работа №4 и 5 (если делать работы совместно)](https://info-m3203.tech/subjects/devtools) |
 | | | |
