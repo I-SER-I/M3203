@@ -35,3 +35,4 @@
 10. [Случайные векторы 20.04](https://www.youtube.com/watch?v=LKniv3GL4ws) / [Конспект](https://drive.google.com/file/d/1KcicYcUlsqBvH5r7pTbrKlAfuE96AlWl/view?usp=sharing)
 11. [Введение в математическую статистику 27.04](https://www.youtube.com/watch?v=VYa5LLCbWng) / [Конспект](https://drive.google.com/file/d/1L5JrLmTtORBRdz2JSTFSLT7JwtMJRVIf/view?usp=sharing)
 12. [Метод обратной замены 04.05](https://www.youtube.com/watch?v=ppaoDcy9J1E) / [Конспект](https://drive.google.com/file/d/1MsJWQRx2FS5x5lNg1DClBg1FWiP7gq3w/view?usp=sharing)
+13. [Точечная и интервальная оценки 11.05](https://www.youtube.com/watch?v=zJVkLBecCKk) / [Конспект](https://drive.google.com/file/d/1k4mLV5OP4nZshtQuTx35BuQoFEZ2WdX_/view?usp=sharing)
