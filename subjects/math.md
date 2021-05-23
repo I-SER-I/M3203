@@ -36,3 +36,4 @@
 11. [Введение в математическую статистику 27.04](https://www.youtube.com/watch?v=VYa5LLCbWng) / [Конспект](https://drive.google.com/file/d/1L5JrLmTtORBRdz2JSTFSLT7JwtMJRVIf/view?usp=sharing)
 12. [Метод обратной замены 04.05](https://www.youtube.com/watch?v=ppaoDcy9J1E) / [Конспект](https://drive.google.com/file/d/1MsJWQRx2FS5x5lNg1DClBg1FWiP7gq3w/view?usp=sharing)
 13. [Точечная и интервальная оценки 11.05](https://www.youtube.com/watch?v=zJVkLBecCKk) / [Конспект](https://drive.google.com/file/d/1k4mLV5OP4nZshtQuTx35BuQoFEZ2WdX_/view?usp=sharing)
+14. [Статистические модели и гипотезы 18.05](https://www.youtube.com/watch?v=RW0IeGuQTPM) / [Конспект](https://drive.google.com/file/d/1j7nRaxwe7o6P23HbwgGDQ4BITihIjHuY/view?usp=sharing)
