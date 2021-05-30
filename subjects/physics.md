@@ -39,5 +39,7 @@
 13. [Конспект от 07.05](https://drive.google.com/file/d/13xO26Q3X_YUBjWuMsVXf-IB-m62M06Cc/view?usp=sharing) 
 14. [Конспект от 14.05](https://drive.google.com/file/d/1sLEN-VdtyQWdi6QiS5jAMh8-iCVyl9YI/view?usp=sharing) / [Запись практики](https://www.youtube.com/watch?v=ZLowcyFfS8U)
 15. [Конспект от 21.05](https://drive.google.com/file/d/1pIvZN9asT12sZU_JdoCr1mqL3BPBkInk/view?usp=sharing) / [Запись практики](https://youtu.be/xtcrPt2hEy8)
+15. [Конспект от 28.05](https://drive.google.com/file/d/1JwTqp5O6ca3A61qMp9AcWV1XR2VabVbT/view?usp=sharing) / [Запись практики](https://youtu.be/Jpef6L3EEjQ)
+
 
 [Сайт ФТФшников](https://study.physics.itmo.ru)
