@@ -37,3 +37,4 @@
 12. [Метод обратной замены 04.05](https://www.youtube.com/watch?v=ppaoDcy9J1E) / [Конспект](https://drive.google.com/file/d/1MsJWQRx2FS5x5lNg1DClBg1FWiP7gq3w/view?usp=sharing)
 13. [Точечная и интервальная оценки 11.05](https://www.youtube.com/watch?v=zJVkLBecCKk) / [Конспект](https://drive.google.com/file/d/1k4mLV5OP4nZshtQuTx35BuQoFEZ2WdX_/view?usp=sharing)
 14. [Статистические модели и гипотезы 18.05](https://www.youtube.com/watch?v=RW0IeGuQTPM) / [Конспект](https://drive.google.com/file/d/1j7nRaxwe7o6P23HbwgGDQ4BITihIjHuY/view?usp=sharing)
+15. [Метод наименьших квадратов 25.05](https://youtu.be/CbVAz6-QTfU) / [Конспект](https://drive.google.com/file/d/18x9FJmkBUXmJ-DaMMpkVMLHEop3-kt7b/view?usp=sharing)
