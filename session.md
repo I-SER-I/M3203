@@ -9,7 +9,7 @@
 | 16 июня | 10:00 | [Математическая статистика](https://drive.google.com/file/d/19kvH45T5zTK8MXF0mHSahRNhx3QN4JSE/view?usp=sharing) | Экзамен |
 | 18 июня | 17:00 | Технологии программирования | Консультация |
 | 19 июня | 13:30 | Технологии программирования | Экзамен |
-| 21 июня | 10:00 | [Дополнительные главы физики](https://drive.google.com/file/d/1Tys5oeYtmYhX45NY8WX7zB0So1G21Iij/view?usp=sharing) | Диф. зачет |
+| 21 июня | 10:00 | [Дополнительные главы физики](https://drive.google.com/file/d/1Tys5oeYtmYhX45NY8WX7zB0So1G21Iij/view?usp=sharing) / [Запись на экзамен](https://docs.google.com/spreadsheets/d/1S0oC_wnFbVOUwVU9NVsqresf-s2b-8nJKgziGzQkRWQ/edit#gid=1866097877) | Диф. зачет |
 | 22 июня | 10:00 | Физическая культура | Зачет |
 | 23 июня | 10:00 | Иностранный язык | Консультация |
 | 24 июня | 10:00 | Иностранный язык | Экзамен |
